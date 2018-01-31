@@ -4,3 +4,6 @@
 [submodule "portfoliosite/themes/tracks"]
 	path = portfoliosite/themes/tracks
 	url = https://github.com/ageekymonk/hugo-tracks-theme.git
+[submodule "portfoliosite/themes/ananke"]
+	path = portfoliosite/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
