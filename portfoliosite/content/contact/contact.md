@@ -10,7 +10,7 @@ draft: true
 * Commissioner James Gordon
 * Barbara Gordon
 
-
+![BilledeBatman](../batsignal.jpg)
 # Location
 
 DC Universe, <br>
