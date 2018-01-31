@@ -48,7 +48,7 @@ The Bat Cave
         }
     .knap{
         background-color: white;
-        font-size: 50px;
+        font-size: 30px;
         margin-top: 5px;
         }
     .knap:hover{

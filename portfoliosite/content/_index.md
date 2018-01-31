@@ -6,4 +6,6 @@ draft: true
 
 # Welcome to the Batcave
 
-### Take a look around - But DON'T touch anything!
+### Take a look around - On your own responsibility!
+
+![Billede 1 af Batman](../imgs/batmans.jpg)

@@ -12,4 +12,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur conse
 
 Find out more [HERE](https://en.wikipedia.org/wiki/Batman)
 
-![Billede 1 af Batman](../imgs/batmans.jpg)
+![Billede 1 af Batman](../imgs/bruce.jpg)
+

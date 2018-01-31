@@ -5017,7 +5017,7 @@ code {
 .hover-white:focus,
 .hover-white:hover {
     color: #FF0;
-    font-size: 1.1em;
+    font-weight: 700;
 }
 
 .hover-black-90:focus,
