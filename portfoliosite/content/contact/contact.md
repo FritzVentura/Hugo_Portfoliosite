@@ -1,6 +1,5 @@
 ---
 title: "How to reach The Batman"
-draft: true
 ---
 # Communication Methods
 

@@ -2,7 +2,6 @@
 title: "About"
 date: 2018-01-30T17:04:27+01:00
 caseimage: ../batmans.jpg
-draft: true
 ---
 
 # Who is The Bat?

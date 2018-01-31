@@ -1,7 +1,6 @@
 ---
 title: "Killer Croc's sewage time"
 date: 2018-01-30T17:06:18+01:00
-draft: true
 ---
 
 # Defeating The Crocodile Man
