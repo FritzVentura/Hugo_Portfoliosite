@@ -8,7 +8,7 @@ theme = "ananke"
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
   github = ""
@@ -17,9 +17,7 @@ theme = "ananke"
   background_color_class = "bg-black"
   featured_image = "/imgs/batman_baggrund3.jpg"
   recent_posts_number = 2
-  
-[params]
-extracssfiles = ["/css/override.css"]
+
 
 [[menu.main]]
 name                   = "Home"
@@ -32,12 +30,6 @@ name                   = "Portfolio"
 weight                 = 20
 identifier             = "portfolio"
 url                    = "/portfolio/"
-
-[[menu.main]]
-name                   = "Blog"
-weight                 = 30
-identifier             = "blog"
-url                    = "/blog/"
 
 [[menu.main]]
 name                   = "About"
