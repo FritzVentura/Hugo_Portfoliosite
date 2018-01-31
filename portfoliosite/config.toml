@@ -2,6 +2,7 @@ baseURL = "http://hugoportfolio.flkdesign.com"
 languageCode = "en-us"
 title = "Batman Portfolio X Frederik Lee Kofoed"
 theme = "ananke"
+publishDir = "docs"
 
 
 [params]
