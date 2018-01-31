@@ -1,0 +1,3 @@
+[submodule "portfoliosite/hugo-tracks-theme"]
+	path = portfoliosite/hugo-tracks-theme
+	url = https://github.com/ageekymonk/hugo-tracks-theme.git
