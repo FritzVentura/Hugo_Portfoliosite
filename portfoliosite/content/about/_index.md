@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2018-01-30T17:04:27+01:00
+caseimage: ../batmans.jpg
 draft: true
 ---
 
@@ -11,3 +12,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur conse
 
 Find out more [HERE](https://en.wikipedia.org/wiki/Batman)
 
+![Billede 1 af Batman](../imgs/batmans.jpg)
